@@ -37,19 +37,12 @@ También me interesa aprender a desarrollar cuadros de mando y asistentes de IA 
 
 ## Reto de automatización que quiero desarrollar
 
-Uno de los retos que más me interesa es la **automatización del seguimiento de envíos y la gestión proactiva de incidencias**, mediante la integración de diferentes sistemas y el uso de agentes de inteligencia artificial.
+Mi principal reto de automatización será desarrollar un **sistema unificado de seguimiento de envíos**, que integre la información procedente de las APIs de los ocho transportistas con los que trabaja TrackFlow.
 
-Quiero aprender a construir una solución que recopile información de distintas fuentes, detecte posibles retrasos y facilite la comunicación con los clientes y responsables de operaciones.
+Este reto corresponde a una de las necesidades identificadas por el departamento de **Última Milla y Gestión de Transportistas**: disponer de un endpoint unificado de tracking que permita consultar el estado de cualquier envío, independientemente del transportista.
 
-## My AI Agent Idea
+Sobre esta integración, me gustaría desarrollar un agente de inteligencia artificial capaz de analizar las incidencias y detectar operaciones con riesgo de retraso, generando alertas para los responsables y propuestas de comunicación proactiva para los clientes.
 
-Propongo desarrollar un **agente de IA para el seguimiento de operaciones logísticas y la detección anticipada de incidencias**, capaz de identificar envíos con riesgo de retraso y analizar sus posibles causas.
+La solución también estaría relacionada con los objetivos del departamento de **Experiencia del Cliente**, especialmente la automatización de las consultas sobre el estado de los envíos.
 
-Para ello, necesitaría consultar información de pedidos, almacenes, transportistas, fechas previstas de entrega, incidencias históricas y compromisos de servicio de TrackFlow.
-
-El agente generaría alertas para los responsables de operaciones, informes de seguimiento y propuestas de comunicación proactiva a los clientes, integrándose con los sistemas de gestión de la empresa.
-
-Las decisiones importantes y las comunicaciones sensibles quedarían sujetas a supervisión humana, con el objetivo de aplicar posteriormente estos mismos principios a la gestión de órdenes de reparación y atención al cliente de VIP Automoción.
-Como resultado, produciría alertas, informes de seguimiento y borradores de comunicaciones, manteniendo la supervisión humana para las decisiones importantes.
-
-Mi objetivo es aprender a desarrollar este tipo de solución para poder aplicar posteriormente los mismos principios a la gestión de órdenes de reparación y atención al cliente de VIP Automoción.
+Mi interés es aprender a desarrollar una arquitectura que pueda adaptar posteriormente a VIP Automoción, integrando las órdenes de reparación, la planificación de trabajos y las fechas previstas de entrega.
