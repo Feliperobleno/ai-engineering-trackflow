@@ -43,16 +43,13 @@ Quiero aprender a construir una solución que recopile información de distintas
 
 ## My AI Agent Idea
 
-Propongo desarrollar un **agente de IA para el seguimiento de operaciones y la detección anticipada de incidencias**.
+Propongo desarrollar un **agente de IA para el seguimiento de operaciones logísticas y la detección anticipada de incidencias**, capaz de identificar envíos con riesgo de retraso y analizar sus posibles causas.
 
-El agente consultaría información sobre pedidos, estados de preparación, transportistas, fechas previstas de entrega y posibles incidencias, además de obtener datos del histórico de incidencias para evaluar zonas habituales de fricción en las operaciones.
+Para ello, necesitaría consultar información de pedidos, almacenes, transportistas, fechas previstas de entrega, incidencias históricas y compromisos de servicio de TrackFlow.
 
-Con estos datos, analizaría qué operaciones presentan riesgo de retraso, identificaría sus posibles causas y prepararía avisos para los responsables correspondientes.
+El agente generaría alertas para los responsables de operaciones, informes de seguimiento y propuestas de comunicación proactiva a los clientes, integrándose con los sistemas de gestión de la empresa.
 
-También podría generar propuestas de comunicación para los clientes, explicando de forma clara el estado de sus envíos y las nuevas previsiones cuando existan cambios.
-
-El agente necesitaría acceso controlado a los datos operativos, las reglas de servicio y los compromisos de entrega de TrackFlow.
-
+Las decisiones importantes y las comunicaciones sensibles quedarían sujetas a supervisión humana, con el objetivo de aplicar posteriormente estos mismos principios a la gestión de órdenes de reparación y atención al cliente de VIP Automoción.
 Como resultado, produciría alertas, informes de seguimiento y borradores de comunicaciones, manteniendo la supervisión humana para las decisiones importantes.
 
 Mi objetivo es aprender a desarrollar este tipo de solución para poder aplicar posteriormente los mismos principios a la gestión de órdenes de reparación y atención al cliente de VIP Automoción.
