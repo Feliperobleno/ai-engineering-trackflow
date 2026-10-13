@@ -33,7 +33,7 @@ Me interesa desarrollar sistemas que permitan a los clientes conocer el estado d
 Considero que la transparencia, la información actualizada y la reducción de las consultas repetitivas son fundamentales para mejorar la experiencia del cliente y reducir la carga de trabajo del personal de atención al cliente permitiendo que el personal concentre sus esfuerzos en las tareas que aportan mayor valor al cliente
 ### Dirección y análisis de datos
 
-También me interesa aprender a desarrollar cuadros de mando y asistentes de IA que permitan analizar indicadores operativos, detectar problemas y tomar decisiones basadas en información fiable.
+Considero que la transparencia, la información actualizada y la reducción de las consultas repetitivas son fundamentales para mejorar la experiencia del cliente y reducir la carga de trabajo del personal de atención al cliente, permitiendo que concentre sus esfuerzos en las tareas que aportan mayor valor.
 
 ## Reto de automatización que quiero desarrollar
 
