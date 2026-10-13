@@ -46,3 +46,13 @@ Sobre esta integración, me gustaría desarrollar un agente de inteligencia arti
 La solución también estaría relacionada con los objetivos del departamento de **Experiencia del Cliente**, especialmente la automatización de las consultas sobre el estado de los envíos.
 
 Mi interés es aprender a desarrollar una arquitectura que pueda adaptar posteriormente a VIP Automoción, integrando las órdenes de reparación, la planificación de trabajos y las fechas previstas de entrega.
+
+## My AI Agent Idea
+
+Propongo desarrollar un agente de IA para el seguimiento de operaciones logísticas y la detección anticipada de incidencias, capaz de identificar envíos con riesgo de retraso y analizar sus posibles causas.
+
+Para ello, necesitaría consultar información de pedidos, almacenes, transportistas, fechas previstas de entrega, incidencias históricas y compromisos de servicio de TrackFlow.
+
+El agente generaría alertas para los responsables de operaciones, informes de seguimiento y propuestas de comunicación proactiva a los clientes, integrándose con los sistemas de gestión de la empresa.
+
+Las decisiones importantes y las comunicaciones sensibles quedarían sujetas a supervisión humana, con el objetivo de aplicar posteriormente estos mismos principios a la gestión de órdenes de reparación y atención al cliente de VIP Automoción.
