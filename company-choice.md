@@ -30,7 +30,7 @@ Será muy interesante desarrollar un panel de control de carga de trabajo vincul
 
 Me interesa desarrollar sistemas que permitan a los clientes conocer el estado de sus operaciones y recibir comunicaciones proactivas.
 
-Considero que la transparencia, la información actualizada y la reducción de las consultas repetitivas son fundamentales para mejorar la experiencia del cliente y reducir la carga de trabajo del personal de atención al cliente permitiendo que el personal concentre sus esfuerzos en las tareas que aportan mayor valor al cliente.
+Considero que la transparencia, la información actualizada y la reducción de las consultas repetitivas son fundamentales para mejorar la experiencia del cliente y reducir la carga de trabajo del personal de atención al cliente, permitiendo que concentre sus esfuerzos en las tareas que aportan mayor valor.
 
 ### Dirección y análisis de datos
 
